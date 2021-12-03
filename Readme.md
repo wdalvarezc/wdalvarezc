@@ -29,4 +29,8 @@ Te dejo algunos de mis Proyectos:
 #### Freelance | Granada Records
 
 
-[![Granada Records](davliz.vzpla.net/g3147.png)](http://davliz.vzpla.net/)
+[![Granada Records](https://scontent.fbog9-1.fna.fbcdn.net/v/t31.18172-8/s960x960/28337816_1623708871052072_4194034762193022782_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHGqpaSskQvHdXwdW6AwViZpuw4QlrkrPim7DhCWuSs-DKi1D5xpj5BVIqbfNbUinZxscn0GrvrtoHnUMCqzLiW&_nc_ohc=Byn6v3WncuoAX_51x7p&_nc_ht=scontent.fbog9-1.fna&oh=2a59bc16d512e62e08ff7b775f6f513a&oe=61CF32FE)](http://davliz.vzpla.net/)
+
+#### Contactame
+
+Si te gusto mi trabajo, te dejo mi [whatsapp](https://api.whatsapp.com/send?phone=573057656981) para que me contactes
