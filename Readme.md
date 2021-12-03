@@ -33,4 +33,4 @@ Te dejo algunos de mis Proyectos:
 
 ## Contactame
 
-Si te gusto mi trabajo, te dejo mi [whatsapp](https://api.whatsapp.com/send?phone=573057656981) para que me contactes
+Si te gusto mi trabajo, puedes contactarme [aqui](https://api.whatsapp.com/send?phone=573057656981) 
