@@ -3,7 +3,7 @@
 #### Javascript | React | Redux | NodeJs | SQL | Sequelize | Postgresql | PHP | Java
 ### Contacto
 
-[LinkedIn](www.linkedin.com/in/williamdavidalvarez) [Whatsapp](https://api.whatsapp.com/send?phone=573057656981) 
+[LinkedIn](https://www.linkedin.com/in/williamdavidalvarez) [Whatsapp](https://api.whatsapp.com/send?phone=573057656981) 
 
 ## Sobre mi
 
