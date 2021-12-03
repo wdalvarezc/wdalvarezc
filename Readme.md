@@ -22,9 +22,9 @@ Te dejo algunos de mis Proyectos:
 
 [![Watch the video](https://i9.ytimg.com/vi_webp/TvBw5MwkG-I/mqdefault.webp?v=61a66416&sqp=CJShqY0G&rs=AOn4CLASmUykayBI04Mq2MDTP1APG3wb3w)](https://youtu.be/TvBw5MwkG-I)
 #### Freelance | Gruas La Virgen
+[![Gruas La Virgen](https://gruaslavirgen.com/images/logo.png)](https://gruaslavirgen.com/)
 
-[link](https://gruaslavirgen.com/)
 
 #### Freelance | Granada Records
 
-[link](davliz.vzpla.net)
+[GranadaRecords](davliz.vzpla.net)
