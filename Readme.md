@@ -20,7 +20,7 @@ Te dejo algunos de mis Proyectos:
 
 #### Academic | Proyecto Individual Henry | DogApp
 
-[![Watch the video](https://www.youtube.com/watch?v=TvBw5MwkG-I)](https://youtu.be/TvBw5MwkG-I)
+[![Watch the video](https://i9.ytimg.com/vi_webp/TvBw5MwkG-I/mqdefault.webp?v=61a66416&sqp=CJShqY0G&rs=AOn4CLASmUykayBI04Mq2MDTP1APG3wb3w)](https://youtu.be/TvBw5MwkG-I)
 #### Freelance | Gruas La Virgen
 
 [link](https://gruaslavirgen.com/)
