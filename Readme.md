@@ -2,7 +2,7 @@
 ### Full Stack Developer
 #### Javascript | React | Redux | NodeJs | SQL | Sequelize | Postgresql | PHP | Java
 
-### Sobre mi
+## Sobre mi
 
 Realize un Bootcamp en  [Henry](https://soyhenry.com) y curso actualmente Ingeniería de Sistemas en la Escuela Tecnológica Instituto Técnico Central (Bogota)
 Tengo conocimientos en otras tecnologías como PHP, JAVA, C++.
