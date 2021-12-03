@@ -29,4 +29,4 @@ Te dejo algunos de mis Proyectos:
 #### Freelance | Granada Records
 
 
-[![Granada Records](http://davliz.vzpla.net/g3147.png)](http://davliz.vzpla.net/)
+[![Granada Records](davliz.vzpla.net/g3147.png)](http://davliz.vzpla.net/)
